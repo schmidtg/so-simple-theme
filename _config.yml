@@ -27,10 +27,14 @@ links:
     url: /schedule/
   - title: Photos
     url: /photos/
-  - title: Contact
-    url: /contact/
   - title: Tickets
     url: /tickets/
+  - title: Forms
+    url: /forms/
+  - title: Friends
+    url: /friends/
+  - title: Contact
+    url: /contact/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Winnipeg
