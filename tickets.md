@@ -2,7 +2,6 @@
 layout: page
 permalink: /tickets/
 title: Tickets
-tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
 modified: 2014-03-14
 ---
 

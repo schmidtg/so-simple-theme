@@ -2,7 +2,6 @@
 layout: page
 permalink: /schedule/
 title: Events &amp; Schedule
-tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
 modified: 2014-03-14
 image:
   feature: slider04.gif
