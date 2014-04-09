@@ -7,6 +7,19 @@ modified: 2014-03-14
 
 <div class="pagination" markdown="1">
 
+## Executive ##
+**President**\\
+David Carey
+
+**Vice-President**\\
+Vacant
+
+**Treasurer**\\
+Sean Johnston
+
+**Secretary**\\
+Dawn Carey
+
 **Pipe Band Competition Technical Advisor**\\
 Wes Sheppard\\
 <wes@saspb.com>
@@ -14,67 +27,30 @@ Wes Sheppard\\
 **Pipe Band Coordinator**\\
 Jodi Farrell
 
-**Highland Dance Tech Advisor**\\
+**Highland Dance Technical Advisor**\\
 Gaelyn McGregor
-
-**Dance Assistant**\\
-Karen Mabee\\
-204-757-2772
 
 **Highland Dance Coordinator**\\
 Dawn Carey\\
 <dcarey.manitoba@gmail.com>
 
 **Heavy Games Competition Coordinator**\\
-Jeff Ingram
+Jim Wilson
 
 **MB Canoe & Kayaking Marathon Championships Coordinator**\\
 Nancy Lovenjack
 
-**Sheep Dog (Stock Dog) Trail Coordinator**\\
-Kaelene Forsyth
+**Pub and Food Services**\\
+Wes Sheppard\\
+<wes@saspb.com>
 
-**Red Lion Scottish Food Booth**\\
-Ken Thompson
+**Vendors and Market**\\
+Joyce Neyedly
 
-**Wee Willie's Scottish Pub**\\
-Ken Thompson
-
-**Sound Coordinator**\\
-Wayne Posnick\\
-<grsound@hotmail.com>
-
-**Video/Photography Coordinator**\\
-Todd Holmes\\
-<tbh@mts.net>
-
-**Setup/Clean-up**\\
-Dave Carey, Todd Holmes, John Hayles
+**Volunteer Coordinator**\\
+vacant
 
 **Emergency Care**\\
 St. Johns Ambulance
-
-**Pancake Breakfast**\\
-Linda Bullen &amp; Paula Watson
-
-**Sheep Shearing &amp; Highland Cattle**\\
-Doug Dosko
-
-## Officers ##
-**President**\\
-Joyce Neyedly\\
-<joyce@manitobahighlandgathering.org>
-
-**Vice-President**\\
-Jodi Farrell
-
-**Treasurer**\\
-Linda Bullen
-
-**Board Members**\\
-Ken Thompson\\
-Joanna Macdonald\\
-Pat Ward\\
-John Hayley
 
 </div>
