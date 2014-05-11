@@ -5,10 +5,16 @@ title: Tickets
 modified: 2014-03-14
 ---
 
-Early Bird Tickets are not longer for sale. Tickets will be on sale at the gate.
+Early Bird Tickets
 
-Prices are as follow:
+* Family: $21
+* Adults: $8
+* Seniors: $6 (Age 60+)
+* Children: $4 (Age 5-12 / 4 & under free)
 
-* Adult: $10
-* Senior: $8
-* Child: $6
+Gate Prices
+
+* Family: $25
+* Adults: $10
+* Seniors: $8 (Age 60+)
+* Children: $6 (Age 5-12 / 4 & under free)
