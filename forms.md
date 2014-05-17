@@ -11,6 +11,6 @@ modified: 2014-03-14
 
 <a href="http://www.eventry.net/mhg/mhg2014">2014 Highland Dance Online Entry Form</a>
 
-2014 Piping and Drumming Entry Form - n/a
+<a href="/downloads/2014_mhg_piping_drumming_entry.pdf">2014 Piping and Drumming Entry Form</a>
 
 </div>
