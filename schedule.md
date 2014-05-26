@@ -21,7 +21,6 @@ image:
 | 1:00pm | Heavy Games |
 | 1:00pm | Wee Heavy Games |
 | 1:00pm&nbsp;-&nbsp;3:30pm&nbsp;&nbsp; | Pipe Band Competition |
-| 2:00pm&nbsp;-&nbsp;3:30pm | Diamond Disc Dogs |
 | 4:00pm&nbsp;-&nbsp;4:30pm | Massed Pipe Band |
 
 &nbsp;
@@ -31,12 +30,12 @@ image:
 **Other Events**
 
 Historical Reenactment\\
-Petting Zoo\\
+Petting Zoo - <a href="http://www.ricklynfarm.com">Ricklynn Farm</a>\\
+<a href="http://www.ricklynfarm.com">![Alt Cure Highland Coo](/images/cute-highland-cow.jpg)</a>
+
 Scottish Vendors Market\\
 Family events\\
 Scottish Country Dancers\\
-Sheep Shearing Demonstration\\
-Sheep-dog Trials\\
 Scottish auction\\
 and much more!
 </div>
