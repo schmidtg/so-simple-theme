@@ -5,7 +5,8 @@ title: Tickets
 modified: 2014-03-14
 ---
 
-Early Bird Tickets
+Early Bird Tickets\\
+(available via online dance entry form)
 
 * Family: $25 (2 adults and their children)
 * Adults: $10
