@@ -4,7 +4,7 @@ permalink: /schedule/
 title: Events &amp; Schedule
 modified: 2014-03-14
 image:
-  feature: slider04.gif
+  feature: flags.jpg
 ---
 
 | Time | Event |
