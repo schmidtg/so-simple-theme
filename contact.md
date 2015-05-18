@@ -15,17 +15,22 @@ David Carey
 Vacant
 
 **Treasurer**\\
-Sean Johnston
+vacant
+
+**Financial Monitor**\\
+Jim Wilson (non-executive)
 
 **Secretary**\\
 Dawn Carey
 
-**Pipe Band Competition Technical Advisor**\\
-Wes Sheppard\\
-<wes@saspb.com>
+**Events Coordinator**\\
+Joyce Neyedly
 
-**Pipe Band Coordinator**\\
-Jodi Farrell
+**Pipe and Drum Technical Advisor**\\
+Ian Evans
+
+**Pipe and Drum Competition Coordinator**\\
+Vacant
 
 **Highland Dance Technical Advisor**\\
 Gaelyn McGregor
@@ -40,17 +45,13 @@ Jim Wilson
 **MB Canoe & Kayaking Marathon Championships Coordinator**\\
 Nancy Lovenjack
 
-**Pub and Food Services**\\
-Wes Sheppard\\
-<wes@saspb.com>
+**Site Coordinator/Crew-Chief**\\
+Ian McKay
 
-**Vendors and Market**\\
-Joyce Neyedly
+**Wee Willie's Pub Coordinator**\\
+Bailey Carey
 
-**Volunteer Coordinator**\\
-vacant
-
-**Emergency Care**\\
-St. Johns Ambulance
+**Red Lion Scottish Food Coordinator**\\
+Vacant
 
 </div>

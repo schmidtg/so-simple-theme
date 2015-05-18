@@ -1,6 +1,6 @@
 title: Manitoba Highland Gathering
-description: 'Saturday, June 21, 2014<br>East Selkirk Recreation Centre, Strathcona Rd at Hwy 59'
-caption: 48th Annual
+description: 'Saturday, June 20, 2015<br>East Selkirk Recreation Centre, Strathcona Rd at Hwy 59'
+caption: 49th Annual
 logo: manitoba-highland-gathering.png
 disqus_shortname:
 search: false
@@ -40,7 +40,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Winnipeg
 future:      true
-pygments:    true
+highlighter: true
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
