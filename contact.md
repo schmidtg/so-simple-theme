@@ -54,4 +54,8 @@ Bailey Carey
 **Red Lion Scottish Food Coordinator**\\
 Vacant
 
+**Communications Coordinator**\\
+Sandra Horyski\\
+<communications@manitobahighlandgathering.org>
+
 </div>
