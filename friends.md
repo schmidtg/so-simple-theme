@@ -19,4 +19,6 @@ modified: 2014-03-14
 
 [![The Rural Municipality of St. Clements](../images/sponsors/st-clements.gif)](http://www.rmofstclements.com/)
 
+[Harlequin House](http://www.harlequinhousebandb.com/)
+
 </div>
