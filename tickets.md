@@ -7,6 +7,8 @@ modified: 2014-03-14
 
 Early Bird Tickets
 
+<a href="http://www.eventry.net/mhg/mhg2015">Purchase Tickets Online</a>
+
 * Family: $25 (2 adults and their children)
 * Adults: $10
 * Seniors: $8 (Age 60+)

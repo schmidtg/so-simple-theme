@@ -1,5 +1,5 @@
 title: Manitoba Highland Gathering
-description: 'Saturday, June 20, 2015<br>East Selkirk Recreation Centre, Strathcona Rd at Hwy 59'
+description: 'Saturday, June 20, 2015<br>Legacy Park, East Selkirk<br>R.M. of St. Clements<br>HWY 59 and PR # 212<br>located behind the East Selkirk Recreational Centre<br>PR#212 and Strathcona Road'
 caption: 49th Annual
 logo: manitoba-highland-gathering.png
 map_url: https://plus.google.com/app/basic/110733743294538783083/about?gl=ca&hl=en&source=appredir
@@ -25,6 +25,8 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Home
+    url: /
   - title: Events &amp; Schedule
     url: /schedule/
   - title: Photos
