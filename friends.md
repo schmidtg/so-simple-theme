@@ -19,6 +19,8 @@ modified: 2014-03-14
 
 [![The Rural Municipality of St. Clements](../images/sponsors/st-clements.gif)](http://www.rmofstclements.com/)
 
+[![Manitoba Liquor & Lotteries](../images/sponsors/mbll-logo.jpg)](http://www.mbll.ca/)
+
 [Harlequin House](http://www.harlequinhousebandb.com/)
 
 </div>
