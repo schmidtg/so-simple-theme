@@ -55,7 +55,6 @@ Petting Zoo - <a href="http://www.ricklynfarm.com">Ricklynn Farm</a>\\
 Scottish Vendors Market\\
 Family events\\
 Scottish Country Dancers\\
-Winnipeg Infinity Steppers\\
 Scottish auction\\
 and much more!
 </div>

@@ -7,6 +7,11 @@ modified: 2014-03-14
 
 <div class="pagination" markdown="1">
 
+[![The Rural Municipality of St. Clements](../images/sponsors/st-clements.gif)](http://www.rmofstclements.com/)
+
+[![MacDon Industries](../images/sponsors/macdon-logo.png)](http://www.macdon.com/)
+
+
 [![City of Selkirk](../images/sponsors/selkirk.gif)](http://www.cityofselkirk.com/)
 
 [![Interlake Tourism Association](../images/sponsors/interlake-tourism-association.png)](http://www.interlaketourism.com/)
@@ -16,8 +21,6 @@ modified: 2014-03-14
 [![The Rural Municipality of St. Andrews](../images/sponsors/rural-municipality-of-st-andrews.png)](http://www.rmofstandrews.com/)
 
 [![Prairie Pipe Band Association](../images/sponsors/ppbam.png)](http://ppbam.org/)
-
-[![The Rural Municipality of St. Clements](../images/sponsors/st-clements.gif)](http://www.rmofstclements.com/)
 
 [![Manitoba Liquor & Lotteries](../images/sponsors/mbll-logo.jpg)](http://www.mbll.ca/)
 
