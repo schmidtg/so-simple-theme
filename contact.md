@@ -17,9 +17,6 @@ Vacant
 **Treasurer**\\
 vacant
 
-**Financial Monitor**\\
-Jim Wilson (non-executive)
-
 **Secretary**\\
 Dawn Carey
 

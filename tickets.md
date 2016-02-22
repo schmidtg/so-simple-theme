@@ -5,9 +5,11 @@ title: Tickets
 modified: 2014-03-14
 ---
 
-Early Bird Tickets
+We are in the stages of developing a weekend Pass plan and a daily entrance
+plan. Early bird tickets will be available on line and at local businesses at a
+later date.
 
-<a href="http://www.eventry.net/mhg/mhg2015">Purchase Tickets Online</a>
+Purchase Tickets Online - TBA
 
 * Family: $25 (2 adults and their children)
 * Adults: $10
