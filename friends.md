@@ -12,8 +12,6 @@ modified: 2014-03-14
 [![MacDon Industries](../images/sponsors/macdon-logo.png)](http://www.macdon.com/)
 
 
-[![City of Selkirk](../images/sponsors/selkirk.gif)](http://www.cityofselkirk.com/)
-
 [![Interlake Tourism Association](../images/sponsors/interlake-tourism-association.png)](http://www.interlaketourism.com/)
 
 [![Manitoba Paddling Association](../images/sponsors/manitoba-paddling-association.gif)](http://www.mpa.onefireplace.org/)
@@ -23,6 +21,8 @@ modified: 2014-03-14
 [![Prairie Pipe Band Association](../images/sponsors/ppbam.png)](http://ppbam.org/)
 
 [![Manitoba Liquor & Lotteries](../images/sponsors/mbll-logo.jpg)](http://www.mbll.ca/)
+
+[![City of Selkirk](../images/sponsors/selkirk.gif)](http://www.cityofselkirk.com/)
 
 [Harlequin House](http://www.harlequinhousebandb.com/)
 

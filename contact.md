@@ -14,11 +14,10 @@ David Carey
 **Vice-President**\\
 Vacant
 
-**Treasurer**\\
-vacant
+**Treasurer**
 
 **Secretary**\\
-Dawn Carey
+TBA
 
 **Events Coordinator**\\
 Joyce Neyedly
@@ -33,8 +32,7 @@ Vacant
 Gaelyn McGregor
 
 **Highland Dance Coordinator**\\
-Dawn Carey\\
-<dcarey.manitoba@gmail.com>
+TBA
 
 **Heavy Games Competition Coordinator**\\
 Jim Wilson
@@ -43,7 +41,10 @@ Jim Wilson
 Nancy Lovenjack
 
 **Site Coordinator/Crew-Chief**\\
-Ian McKay
+Ian Mackay
+
+**Entertainment Coordinator**\\
+John Mackay
 
 **Wee Willie's Pub Coordinator**\\
 Bailey Carey
