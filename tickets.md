@@ -9,7 +9,8 @@ We are in the stages of developing a weekend Pass plan and a daily entrance
 plan. <strong>Early bird tickets</strong> will be available on line and at local
 businesses at a later date.
 
-Purchase Tickets Online - TBA
+[Purchase Tickets
+Online](http://www.eventry.net/mhg/2016-manitoba-highland-gathering-tickets)
 
 * Family (2 adults and their children)
 * Adults

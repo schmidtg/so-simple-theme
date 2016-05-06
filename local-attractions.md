@@ -15,10 +15,8 @@ more...
 
 ##[Red River North Tourism](http://www.redrivernorthtourism.com/)##
 
-##[![Interlake Tourism Association](../images/sponsors/interlake-tourism-association.png)](http://www.interlaketourism.com/)##
-(make all same size)
+##[![Interlake Tourism Association](../images/sponsors/interlake-tourism-association.png){:height="85px"}](http://www.interlaketourism.com/)##
 
-##[![Travel Manitoba](../images/sponsors/travel-manitoba.jpg)](http://www.travelmanitoba.com/)##
-(make all same size)
+##[![Travel Manitoba](../images/sponsors/travel-manitoba.jpg){:width="250px"}](http://www.travelmanitoba.com/)##
 
 </div>
