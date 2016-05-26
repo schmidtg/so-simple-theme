@@ -9,21 +9,22 @@ modified: 2014-03-14
 
 ## Executive ##
 **President**\\
-David Carey
+Joyce Neyedly
 
 **Vice-President**\\
-Vacant
+Jim Wilson
 
-**Treasurer**
+**Treasurer**\\
+Carol Burdett
 
 **Secretary**\\
-TBA
+Vacant
 
 **Events Coordinator**\\
 Joyce Neyedly
 
 **Pipe and Drum Technical Advisor**\\
-Ian Evans
+Vacant
 
 **Pipe and Drum Competition Coordinator**\\
 Vacant
@@ -32,7 +33,7 @@ Vacant
 Gaelyn McGregor
 
 **Highland Dance Coordinator**\\
-TBA
+Joan Holmstrom
 
 **Heavy Games Competition Coordinator**\\
 Jim Wilson
