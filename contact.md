@@ -17,17 +17,14 @@ Jim Wilson
 **Treasurer**\\
 Carol Burdett
 
-**Secretary**\\
-Vacant
+**Secretary**
 
 **Events Coordinator**\\
 Joyce Neyedly
 
-**Pipe and Drum Technical Advisor**\\
-Vacant
+**Pipe and Drum Technical Advisor**
 
-**Pipe and Drum Competition Coordinator**\\
-Vacant
+**Pipe and Drum Competition Coordinator**
 
 **Highland Dance Technical Advisor**\\
 Gaelyn McGregor
@@ -48,13 +45,14 @@ Ian Mackay
 John Mackay
 
 **Wee Willie's Pub Coordinator**\\
-Bailey Carey
+Ray
 
-**Red Lion Scottish Food Coordinator**\\
-Vacant
+**Red Lion Scottish Food Coordinator**
 
 **Communications Coordinator**\\
-Sandra Horyski\\
+Joyce Neyedly\\
+204-794-6587\\
 <communications@manitobahighlandgathering.org>
+<joyce@manitobahighlandgathering.org>
 
 </div>

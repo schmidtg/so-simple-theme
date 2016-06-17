@@ -13,11 +13,9 @@ Entry](http://www.eventry.net/mhg/2016-manitoba-highland-highland-dance-competit
 
 [Highland Dance Entry Info](http://www.eventry.net/pdfs/2016-manitoba-dance-entry.pdf)
 
-Handout - TBA
+[Scottish Market Application Form (pdf)](/downloads/2016-scottish-market-application.pdf)
 
-Scottish Market Application Form [pdf] - TBA
+[Donations request letter and advertisement specs (pdf)](/downloads/2016-logo-requirements.pdf)
 
-Logo requirements [pdf] - TBA
-
-Donation Request Form [pdf] - TBA
+[Poster (pdf)](/downloads/2016-selkirk-highland-poster.pdf)
 </div>

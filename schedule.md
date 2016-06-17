@@ -8,23 +8,90 @@ modified: 2014-03-14
 <div class="pagination" markdown="1">
 
 <div class="entry-title">July 2, 2016</div>
-Heavy Games Competition Battle of the Border
 
-25th Annual Manitoba Marathon Canoe and Kayaking Championship
+Pancake Breakfast
 
-Wee Folks Area
+Manitoba Living History ( 1811- 1819)
+
+Son's of Lugh Viking Living History (600 - 900 AD)
+
+Barony of Castel Rouge (Medieval Living History)
+
+Black Smith
+
+Sheep Shearing
+
+Stock (Sheep) Dog Demonstrations
+
+Wee Folk
+
+Ricklyn Petting Farm
+
+Face painting, games, Wee Heavy Games,
+
+Wild Life Haven
+
+Official Opening Ceremonies
+
+Heavy Games ( Battle of the Border Professional Competition)
 
 Piping and Drumming
+
+25th Annual Marathon Canoe & Kayaking Marathon Championships
+
+Live Entertainment
+
+Ceilidh (Party )
+
+Scottish Market
+
+Info Booths
+
+Wee Willies Pub
+
+Red Lion Scottish Food Booth
 
 &nbsp;
 
 <div class="entry-title">July 3, 2016</div>
-Highland Dance Competition
 
-Heavy Games Competition Battle of the Border
+Pancake Breakfast
 
-*The schedule will be posted at a later date we are in the process of
-filling it with exciting things for you to experience.*
+Manitoba Living History ( 1811- 1819)
+
+Son's of Lugh Viking Living History (600 - 900 AD) ( Battles )
+
+Barony of Castel Rouge (Medieval Living History) (
+
+Black Smith
+
+Sheep Shearing
+
+Stock (Sheep) Dog Demonstrations
+
+Wee Folk
+
+Ricklyn Petting Farm
+
+Face painting, games, Wee Heavy Games,
+
+Wild Life Haven
+
+Highland Dance Competition ( dancers from Scotland, B.C. N.S.)
+
+Heavy Games ( Amateur Competition)
+
+Piping and Drumming
+
+Live Entertainment
+
+Scottish Market
+
+Info Booths
+
+Red Lion Scottish Food Booth
+
+Wee Willies Pub
 
 &nbsp;
 
