@@ -10,4 +10,4 @@ modified: 2014-05-26
 (click on thumbnails)
 </div>
 
-##[![Manitoba Highland Gathering](../images/2016-poster-photo.jpg)](https://www.dropbox.com/sh/rfrw5whd8b3pa99/AABJBZ7ons8laAiaOaAgpCYma)##
+##[![Manitoba Highland Gathering](../images/sponsors/2016-poster-photo.jpg)](https://www.dropbox.com/sh/rfrw5whd8b3pa99/AABJBZ7ons8laAiaOaAgpCYma)##
