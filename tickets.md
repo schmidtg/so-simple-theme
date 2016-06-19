@@ -7,6 +7,7 @@ modified: 2014-03-14
 
 [Purchase Early Bird Tickets
 Online](http://www.eventry.net/mhg/2016-manitoba-highland-gathering-tickets)
+until June 25
 
 * Family (2 adults and their children) - $22
 * Adults - $8

@@ -36,4 +36,36 @@ join the environmentally sensitive vendor booths and the Regional Historical
 Groups Exhibits and story tellers in the arena. Dancing will move to the
 school.
 
+### Press Release - 50th Manitoba Highland Gathering - June 2016###
+
+The 50th Manitoba Highland Gathering will host for the first time ever, a  Heavy
+Events competition pitting a team from Canada against a team from the USA.
+Called the Battle of the Border, the July 2nd event will be held at East Selkirk
+Legacy Park in East Selkirk.   Four Canadian athletes will compete against 4
+American athletes in 7 classic Scottish events, including the caber toss, hammer
+throw, Stone Put and Weight for Distance.  These events are precursors to modern
+strongman competitions and to two Olympic track and field events (shot put and
+hammer throw)
+
+“We’ll have top athletes from  Wisconsin, Minnesota, Washington State, Alberta,
+Saskatchewan and Ontario competing in a team format for the very first time at
+the Manitoba Highland Gathering.   Our Gathering has always been a top draw for
+elite Scottish throwers from all over North America, but we have never assembled
+a more talented group of throwers for a single competition.  We figured the 50th
+anniversary would be the ideal time to bring out the big guns and create a
+competition that puts some national pride on the line” said MHG Vice-President
+Jim Wilson.
+
+Heading up the Canadian team will be 3 time Canadian Champ Jason Johnston,
+holder of a number of Canadian records and who currently holds the World record
+in the 16 lb. Sheaf Toss.   Captaining the US team is Luke Crowley who hails
+from Wisconsin. Both are expected to put in strong showings on the day for their
+teams and will challenge some provincial and even national records.
+The competition is a one-day event beginning at 11AM on Saturday July 2nd and is
+free with admittance to the Gathering itself.  An amateur Heavy Games
+competition will be held on Sunday July 3rd featuring primarily local Scottish
+athletes.
+
+
+
 </div>
