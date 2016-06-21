@@ -24,6 +24,8 @@ modified: 2014-03-14
 
 [![City of Selkirk](../images/sponsors/selkirk.gif)](http://www.cityofselkirk.com/)
 
+##[![Manitoba Highland Dancers Association](../images/sponsors/mbhda-logo.png){:width="250px"}](http://www.mbhighlanddance.com/)##
+
 [Harlequin House](http://www.harlequinhousebandb.com/)
 </div>
 
