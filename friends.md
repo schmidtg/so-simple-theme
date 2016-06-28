@@ -22,7 +22,7 @@ modified: 2014-03-14
 
 [![Manitoba Liquor & Lotteries](../images/sponsors/mbll-logo.jpg)](http://www.mbll.ca/)
 
-[![City of Selkirk](../images/sponsors/selkirk.gif)](http://www.cityofselkirk.com/)
+[![City of Selkirk](../images/sponsors/city-of-selkirk-logo.jpg)](http://www.cityofselkirk.com/)
 
 ##[![Manitoba Highland Dancers Association](../images/sponsors/mbhda-logo.png){:width="250px"}](http://www.mbhighlanddance.com/)##
 
