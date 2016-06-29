@@ -74,6 +74,7 @@ modified: 2014-03-14
 | 10:00am&nbsp;-&nbsp;4:00pm | Multicultural Entertainment |
 | 10:00am&nbsp;-&nbsp;3:00pm | Heavy Games Amateur Competition |
 | 10:00am | Wee Heavy Games Registration (at Wee Folk Area) |
+| 10:00am | British Car Clubs |
 | 10:00am&nbsp;-&nbsp;4:00pm | Wee Folk Area (Face painting, Activities, Wee Heavy Games |
 | 10:30am&nbsp;-&nbsp;11:00am | Barony of Castel Rouge Demo |
 | 11:00am&nbsp;-&nbsp;11:30am | Son's of Lugh Battle Demo |
