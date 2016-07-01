@@ -99,6 +99,33 @@ modified: 2014-03-14
 
 &nbsp;
 
+<div class="entry-title">Entertainment Schedule</div>
+
+**Saturday**
+
+| Time | Event |
+|:----------|:--------|
+| 11:00am | Simpson's Folly |
+| 12:00pm | Opening Ceremonies |
+| 12:30pm | Lads and Lasses Dancing |
+| 1:00pm | Simpson's Folly |
+| 2:30pm | Lads and Lasses |
+| 3:00pm | Wee Drappie |
+
+**Sunday**
+
+| Time | Event |
+|:----------|:--------|
+| 11:00am | Lizzy's Knickers |
+| 12:00pm | Lads and Lasses |
+| 12:30pm | Lloyd Thomas and Old Thyme Friends |
+| 1:00pm | Lizzy's Knickers |
+| 2:00pm | Lloyd Thomas and Old Thyme Friends |
+| 2:45pm | Lads and Lasses |
+| 3:00pm | Lizzy's Knickers |
+
+&nbsp;
+
 **Food Vendors**
 
 Big Jim's Fish & Chips
